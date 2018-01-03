@@ -1,18 +1,27 @@
 h1 {
-  color: blue;
-  text-align: center;
+  color: red;
+
+}
+body {
+  background-color: #5D5C61;
 }
 
 h2 {
   font-style: italic;
-  text-align: center;
+  color: white;
 }
 
 p {
   font-family: sans-serif;
+  color:white;
 }
 
 ul {
   font-size: 20px;
   line-height: 30px;
+  color:white;
+}
+
+a {
+  color:white;
 }
